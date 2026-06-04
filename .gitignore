@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+*.pt
+*.pkl
+*.log
+*.tar.gz
+results/
+results_summary/
+logs/
+null_space_cache/
+data/
+interpretability/results/
+modify.md
+.last_run_dirs.sh
